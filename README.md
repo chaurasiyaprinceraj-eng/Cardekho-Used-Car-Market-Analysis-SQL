@@ -179,6 +179,11 @@ https://github.com/chaurasiyaprinceraj-eng
 
 (https://www.linkedin.com/in/prince-chaurasiya-85a67922b/)
 
+## 📬 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/prince-chaurasiya-85a67922b/
+- **GitHub:** https://github.com/chaurasiyaprinceraj-eng
+
 ---
 
 ⭐ If you found this project useful, feel free to star this repository.
